@@ -1,0 +1,6 @@
+if SHIELD_Somber_V1
+
+config ZMK_KEYBOARD_NAME
+    default "Somber_V1"
+
+endif
