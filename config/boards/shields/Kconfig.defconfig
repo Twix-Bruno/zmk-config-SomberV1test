@@ -1,6 +1,6 @@
-if SHIELD_Somber_V1
+if SHIELD_SomberV1test
 
 config ZMK_KEYBOARD_NAME
-    default "Somber_V1"
+    default "SomberV1test"
 
 endif
